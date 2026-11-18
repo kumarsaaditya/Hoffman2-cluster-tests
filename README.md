@@ -1,4 +1,6 @@
-# Hoffman2 Jupyter smoke test
+# Hoffman2 Jupyter machine learning smoke test
+
+The notebook trains a small linear regression model on synthetic data and checks its error on a held-out test set. It needs Python 3.10 or later, with no external packages, datasets, or GPU.
 
 Mac instructions
  copy the notebook to your Hoffman2 home directory. Replace `YOUR_HOFFMAN2_USERNAME` with your cluster username.
